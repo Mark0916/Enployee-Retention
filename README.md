@@ -5,7 +5,6 @@ employees are going to quit by understanding the main drivers of employee churn.
 
 What are the main factors that drive employee churn? Do they make sense? Explain your
 findings.
-
 If you could add to this data set just one variable that could help explain employee churn,
 what would that be?
 
